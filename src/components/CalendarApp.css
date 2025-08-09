@@ -93,7 +93,7 @@
 
 .days span {
     font-size: clamp(1.2rem, 1cqi, 1.6rem);
-    width: clac(100% / 7);
+    width: calc(100% / 7);
     aspect-ratio: 1;
     display: flex;
     justify-content: center;
@@ -129,7 +129,6 @@
     justify-content: center;
     align-items: center;
     row-gap: 2rem;
-    display: none;
 }
 
 .time-input {

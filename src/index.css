@@ -6,6 +6,7 @@
   box-sizing: border-box;
   outline: none;
   font-family: "Comfortaa", sans-serif;
+  overflow: hidden;
 }
 
 html {
